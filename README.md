@@ -15,8 +15,9 @@ StockBoot is a new developers tool written in Python
 
 | In Progress  | 
 | ------------- | 
+| Layout and Graphics |
 
 
 | Completed   | 
 | ------------- | 
-
+| App Configuration and setup |
